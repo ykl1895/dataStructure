@@ -1,0 +1,3 @@
+E:/ClioneProject/chacter3/3StaticList/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/ClioneProject/chacter3/3StaticList/cmake-build-debug/CMakeFiles/3StaticList.dir
+E:/ClioneProject/chacter3/3StaticList/cmake-build-debug/CMakeFiles/rebuild_cache.dir

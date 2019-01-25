@@ -1,0 +1,65 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/VisualStudio2015/VC/bin/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.00.24215.1 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.00.24215.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "E:/ClioneProject/chacter3/2Linklist/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/ClioneProject/chacter3/2Linklist/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/nologo" "cmTC_b443b\fast"
+	D:\VisualStudio2015\VC\BIN\nmake.exe -f CMakeFiles\cmTC_b443b.dir\build.make /nologo -L                  CMakeFiles\cmTC_b443b.dir\build
+Building C object CMakeFiles/cmTC_b443b.dir/testCCompiler.c.obj
+	D:\VisualStudio2015\VC\bin\cl.exe @C:\Users\26989\AppData\Local\Temp\nm87F7.tmp
+testCCompiler.c
+Linking C executable cmTC_b443b.exe
+	"D:\clion\CLion 2018.3.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b443b.dir --manifests  -- D:\VisualStudio2015\VC\bin\link.exe /nologo @CMakeFiles\cmTC_b443b.dir\objects1.rsp @C:\Users\26989\AppData\Local\Temp\nm8885.tmp
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/ClioneProject/chacter3/2Linklist/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/nologo" "cmTC_fde66\fast"
+	D:\VisualStudio2015\VC\BIN\nmake.exe -f CMakeFiles\cmTC_fde66.dir\build.make /nologo -L                  CMakeFiles\cmTC_fde66.dir\build
+Building C object CMakeFiles/cmTC_fde66.dir/CMakeCCompilerABI.c.obj
+	D:\VisualStudio2015\VC\bin\cl.exe @C:\Users\26989\AppData\Local\Temp\nm8C7C.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_fde66.exe
+	"D:\clion\CLion 2018.3.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_fde66.dir --manifests  -- D:\VisualStudio2015\VC\bin\link.exe /nologo @CMakeFiles\cmTC_fde66.dir\objects1.rsp @C:\Users\26989\AppData\Local\Temp\nm8D77.tmp
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: E:/ClioneProject/chacter3/2Linklist/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/nologo" "cmTC_e69e0\fast"
+	D:\VisualStudio2015\VC\BIN\nmake.exe -f CMakeFiles\cmTC_e69e0.dir\build.make /nologo -L                  CMakeFiles\cmTC_e69e0.dir\build
+Building C object CMakeFiles/cmTC_e69e0.dir/feature_tests.c.obj
+	D:\VisualStudio2015\VC\bin\cl.exe @C:\Users\26989\AppData\Local\Temp\nm913E.tmp
+feature_tests.c
+Linking C executable cmTC_e69e0.exe
+	"D:\clion\CLion 2018.3.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_e69e0.dir --manifests  -- D:\VisualStudio2015\VC\bin\link.exe /nologo @CMakeFiles\cmTC_e69e0.dir\objects1.rsp @C:\Users\26989\AppData\Local\Temp\nm91CC.tmp
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros
