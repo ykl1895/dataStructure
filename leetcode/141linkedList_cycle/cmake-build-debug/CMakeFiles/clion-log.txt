@@ -1,4 +1,4 @@
-C:\Users\26989\.CLion2018.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/e/ClioneProject/leetcode/21
+C:\Users\26989\.CLion2018.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/e/ClioneProject/leetcode/141linkedList_cycle
 -- The C compiler identification is GNU 7.4.0
 -- The CXX compiler identification is GNU 7.4.0
 -- Check for working C compiler: /usr/bin/cc
@@ -15,4 +15,4 @@ C:\Users\26989\.CLion2018.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /cygdrive/e/ClioneProject/leetcode/21/cmake-build-debug
+-- Build files have been written to: /cygdrive/e/ClioneProject/leetcode/141linkedList_cycle/cmake-build-debug
