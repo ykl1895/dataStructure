@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.13)
-project(141linkedList_cycle)
+project(83deletDuplicate)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(141linkedList_cycle
+add_executable(83deletDuplicate
         main.cpp)

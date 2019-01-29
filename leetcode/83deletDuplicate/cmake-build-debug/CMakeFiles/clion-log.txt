@@ -1,0 +1,4 @@
+C:\Users\26989\.CLion2018.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/e/ClioneProject/leetcode/83deletDuplicate
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/e/ClioneProject/leetcode/83deletDuplicate/cmake-build-debug
