@@ -4,4 +4,4 @@ project(83deletDuplicate)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(83deletDuplicate
-        main.cpp)
+    main.cpp)

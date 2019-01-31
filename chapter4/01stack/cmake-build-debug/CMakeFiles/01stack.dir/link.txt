@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/01stack.dir/main.cpp.o  -o 01stack.exe -Wl,--out-implib,lib01stack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
